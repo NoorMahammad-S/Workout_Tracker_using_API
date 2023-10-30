@@ -1,7 +1,13 @@
 # Workout Tracker
 
-This is a simple Python script that allows users to track their workouts and store the data in a Google Sheets spreadsheet. 
+This is a Python script that allows users to track their workouts and store the data in a Google Sheets spreadsheet. 
 It utilizes the Nutritionix API to get exercise data and the Sheety API to update the Google Sheets document.
+
+### Workout Tracker Input 
+![Workout Tracker Input](Images/Tracker%20input.JPG)
+
+### Workout Tracker Output
+![Workout Tracker Input](https://github.com/NoorMahammad-S/Workout_Tracker_using_API/blob/master/Images/Tracker%20output.JPG)
 
 ## Prerequisites
 
