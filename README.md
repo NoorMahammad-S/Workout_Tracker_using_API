@@ -66,4 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The code was developed with the help of Nutritionix and Sheety APIs.
-
